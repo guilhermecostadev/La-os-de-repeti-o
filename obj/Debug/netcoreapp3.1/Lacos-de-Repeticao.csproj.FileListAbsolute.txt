@@ -1,0 +1,26 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Lacos-de-Repeticao\obj\Debug\netcoreapp3.1\Lacos-de-Repeticao.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Lacos-de-Repeticao\obj\Debug\netcoreapp3.1\Lacos-de-Repeticao.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Lacos-de-Repeticao\obj\Debug\netcoreapp3.1\Lacos-de-Repeticao.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Lacos-de-Repeticao\obj\Debug\netcoreapp3.1\Lacos-de-Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Lacos-de-Repeticao\bin\Debug\netcoreapp3.1\Lacos-de-Repeticao.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Lacos-de-Repeticao\bin\Debug\netcoreapp3.1\Lacos-de-Repeticao.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Lacos-de-Repeticao\bin\Debug\netcoreapp3.1\Lacos-de-Repeticao.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Lacos-de-Repeticao\bin\Debug\netcoreapp3.1\Lacos-de-Repeticao.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Lacos-de-Repeticao\bin\Debug\netcoreapp3.1\Lacos-de-Repeticao.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Lacos-de-Repeticao\bin\Debug\netcoreapp3.1\Lacos-de-Repeticao.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Lacos-de-Repeticao\obj\Debug\netcoreapp3.1\Lacos-de-Repeticao.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Lacos-de-Repeticao\obj\Debug\netcoreapp3.1\Lacos-de-Repeticao.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Lacos-de-Repeticao\obj\Debug\netcoreapp3.1\Lacos-de-Repeticao.genruntimeconfig.cache
+C:\Users\Pichau\Downloads\Lacos-de-Repeticao-main\bin\Debug\netcoreapp3.1\Lacos-de-Repeticao.exe
+C:\Users\Pichau\Downloads\Lacos-de-Repeticao-main\bin\Debug\netcoreapp3.1\Lacos-de-Repeticao.deps.json
+C:\Users\Pichau\Downloads\Lacos-de-Repeticao-main\bin\Debug\netcoreapp3.1\Lacos-de-Repeticao.runtimeconfig.json
+C:\Users\Pichau\Downloads\Lacos-de-Repeticao-main\bin\Debug\netcoreapp3.1\Lacos-de-Repeticao.runtimeconfig.dev.json
+C:\Users\Pichau\Downloads\Lacos-de-Repeticao-main\bin\Debug\netcoreapp3.1\Lacos-de-Repeticao.dll
+C:\Users\Pichau\Downloads\Lacos-de-Repeticao-main\bin\Debug\netcoreapp3.1\Lacos-de-Repeticao.pdb
+C:\Users\Pichau\Downloads\Lacos-de-Repeticao-main\obj\Debug\netcoreapp3.1\Lacos-de-Repeticao.csprojAssemblyReference.cache
+C:\Users\Pichau\Downloads\Lacos-de-Repeticao-main\obj\Debug\netcoreapp3.1\Lacos-de-Repeticao.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\Lacos-de-Repeticao-main\obj\Debug\netcoreapp3.1\Lacos-de-Repeticao.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\Lacos-de-Repeticao-main\obj\Debug\netcoreapp3.1\Lacos-de-Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\Lacos-de-Repeticao-main\obj\Debug\netcoreapp3.1\Lacos-de-Repeticao.dll
+C:\Users\Pichau\Downloads\Lacos-de-Repeticao-main\obj\Debug\netcoreapp3.1\Lacos-de-Repeticao.pdb
+C:\Users\Pichau\Downloads\Lacos-de-Repeticao-main\obj\Debug\netcoreapp3.1\Lacos-de-Repeticao.genruntimeconfig.cache
